@@ -1,5 +1,3 @@
-# (c) @tgnvs
-
 import os
 
 
