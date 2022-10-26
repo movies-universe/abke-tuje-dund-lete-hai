@@ -1,5 +1,3 @@
-# (c) @tgnvs
-
 from configs import Config
 from pyrogram import Client, filters, idle
 from pyrogram.errors import QueryIdInvalid
