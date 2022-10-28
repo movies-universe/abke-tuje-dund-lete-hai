@@ -14,7 +14,7 @@ class Config(object):
     UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "")
     ABOUT_BOT_TEXT = """<b>This is Link Search Bot.
     
-🤖 My Name: <a href='https://t.me/nvslinkbot'>Link Search Robot</a>
+🤖 My Name: <a href='http://t.me/mdisk_searche_bot'>Mdisk Search Robot</a>
 
 📝 Language : <a href='https://www.python.org'> Python V3</a>
 
@@ -22,10 +22,10 @@ class Config(object):
 
 📡 Server: <a href='https://heroku.com'>Heroku</a>
 
-👨‍💻 Created By: <a href='https://t.me/nvscloudx'>𝙽𝚅𝚂𝙲𝙻𝙾𝚄𝙳𝚇</a></b>
+👨‍💻 Created By: <a href='https://t.me/GreyMatter_Bots'>GreyMatter Bots</a></b>
 """
 
-    ABOUT_HELP_TEXT = """<b>👨‍💻 Developer : <a href='https://t.me/tgnvs'>𝚃𝙶𝙽𝚅𝚂</a>
+    ABOUT_HELP_TEXT = """<b>👨‍💻 Developer : <a href='https://t.me/GreyMatter_Owner'>GreyMatter</a>
 
 If You Want Your Own Bot Like This Then You Can Contact Our Developer.</b>
 """
@@ -37,7 +37,7 @@ I'm Mdisk Search Robot.🤖</a>
 
 I Can Search 🔍 What You Want❗
 
-<a>Made With ❤ By @tgnvs</a></b>
+<a>Made With ❤ By @GreyMatter_Bots</a></b>
 """
 
 
@@ -48,6 +48,6 @@ I'm Mdisk Search Robot.🤖</a>
 
 I Can Search 🔍 What You Want❗
 
-<a>Made With ❤ By @tgnvs</a></b>
+<a>Made With ❤ By @GreyMatter_Bots</a></b>
 """
 
