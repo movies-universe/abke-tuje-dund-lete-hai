@@ -22,10 +22,10 @@ class Config(object):
 
 📡 Server: <a href='https://heroku.com'>Heroku</a>
 
-👨‍💻 Created By: <a href='https://t.me/GreyMatter_Bots'>GreyMatter Bots</a></b>
+👨‍💻 Created By: <a href='https://t.me/ravana1212'>movies universe</a></b>
 """
 
-    ABOUT_HELP_TEXT = """<b>👨‍💻 Developer : <a href='https://t.me/GreyMatter_Owner'>GreyMatter</a>
+    ABOUT_HELP_TEXT = """<b>👨‍💻 Developer : <a href='https://t.me/ravana1212'>ravana</a>
 
 If You Want Your Own Bot Like This Then You Can Contact Our Developer.</b>
 """
@@ -37,7 +37,7 @@ I'm Mdisk Search Robot.🤖</a>
 
 I Can Search 🔍 What You Want❗
 
-<a>Made With ❤ By @GreyMatter_Bots</a></b>
+<a>Made With ❤ By @MoviesU2</a></b>
 """
 
 
@@ -48,6 +48,6 @@ I'm Mdisk Search Robot.🤖</a>
 
 I Can Search 🔍 What You Want❗
 
-<a>Made With ❤ By @GreyMatter_Bots</a></b>
+<a>Made With ❤ By @MoviesU2</a></b>
 """
 
