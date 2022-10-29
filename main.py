@@ -74,7 +74,7 @@ async def button(bot, cmd: CallbackQuery):
 				[
 					[
 						InlineKeyboardButton("Updates 𝙲𝚑𝚊𝚗𝚗𝚊𝚕", url="https://t.me/MoviesU2"),
-						InlineKeyboardButton("Subscribe", url="https://youtube.com/c/GreyMattersBot")
+						InlineKeyboardButton("Subscribe", url="https://youtube.com/channel/UCPVPb_GXMB4a4bw1AOmL7pQ")
 					],
 					[
 						InlineKeyboardButton("Home", callback_data="gohome")
