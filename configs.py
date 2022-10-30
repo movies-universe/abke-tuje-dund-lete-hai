@@ -8,7 +8,7 @@ class Config(object):
     BOT_SESSION_NAME = os.environ.get("BOT_SESSION_NAME", "LinkSearchBot")
     USER_SESSION_STRING = os.environ.get("USER_SESSION_STRING", "")
     CHANNEL_ID = int(os.environ.get("CHANNEL_ID", ""))
-    BOT_USERNAME = os.environ.get("BOT_USERNAME", "nvslinkbot")
+    BOT_USERNAME = os.environ.get("BOT_USERNAME", "")
     BOT_OWNER = int(os.environ.get("BOT_OWNER", ""))
     DATABASE_URL = os.environ.get("DATABASE_URL", "")
     UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "")
@@ -22,10 +22,10 @@ class Config(object):
 
 📡 Server: <a href='https://heroku.com'>Heroku</a>
 
-👨‍💻 Created By: <a href='https://t.me/ravana1212'>movies universe</a></b>
+👨‍💻 Created By: <a href='https://t.me/Don_vijay'>danvijays</a></b>
 """
 
-    ABOUT_HELP_TEXT = """<b>👨‍💻 Developer : <a href='https://t.me/ravana1212'>ravana</a>
+    ABOUT_HELP_TEXT = """<b>👨‍💻 Developer : <a href='https://t.me/Don_Vijay'>donvijay</a>
 
 If You Want Your Own Bot Like This Then You Can Contact Our Developer.</b>
 """
@@ -37,7 +37,7 @@ I'm Mdisk Search Robot.🤖</a>
 
 I Can Search 🔍 What You Want❗
 
-<a>Made With ❤ By @MoviesU2</a></b>
+<a>Made With ❤ By @danvijays</a></b>
 """
 
 
@@ -48,6 +48,6 @@ I'm Mdisk Search Robot.🤖</a>
 
 I Can Search 🔍 What You Want❗
 
-<a>Made With ❤ By @MoviesU2</a></b>
+<a>Made With ❤ By @danvijays</a></b>
 """
 
